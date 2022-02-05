@@ -1,7 +1,19 @@
-### Hi there 👋
+### Welcome! :coffee:
+
+Please consider checking out our company, [Primordial Labs](https://www.primordial-labs.com/). We are developing a tactical cognitive assistant for unmanned aircraft called [Scipio](https://www.primordial-labs.com/scipio.html).
+
+Other Links:
+
+- [Lee Ritholtz @ LinkedIn](https://www.linkedin.com/in/leeritholtz/)
+
+- [Primordial Labs @ LinkedIn](https://www.linkedin.com/company/primordial-labs-llc)
+
+- [Personal Site](https://leeritholtz.com/)
 
 <!--
 **lee-primordial/lee-primordial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
