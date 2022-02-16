@@ -1,6 +1,6 @@
 ### Welcome! :coffee:
 
-Please consider checking out our company, [Primordial Labs](https://www.primordial-labs.com/). We are developing a tactical cognitive assistant for unmanned aircraft called [Scipio](https://www.primordial-labs.com/scipio.html).
+Check out our company, [Primordial Labs](https://www.primordial-labs.com/). We are developing a tactical cognitive assistant for unmanned aircraft called [Scipio](https://www.primordial-labs.com/scipio.html).
 
 Other Links:
 
